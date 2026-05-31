@@ -1,0 +1,10 @@
+Interface: wlan0, type: EN10MB, MAC: a8:e2:91:66:f8:44, IPv4: 192.168.18.67
+Starting arp-scan 1.10.0 with 256 hosts (https://github.com/royhills/arp-scan)
+192.168.18.1	f4:fb:b8:81:37:ee	HUAWEI TECHNOLOGIES CO.,LTD
+192.168.18.11	48:45:20:48:a0:c6	Intel Corporate
+192.168.18.26	de:ec:89:c4:04:54	(Unknown: locally administered)
+192.168.18.9	8a:e7:e3:71:b3:3f	(Unknown: locally administered)
+192.168.18.75	a2:ac:4e:9c:c4:1c	(Unknown: locally administered)
+
+5 packets received by filter, 0 packets dropped by kernel
+Ending arp-scan 1.10.0: 256 hosts scanned in 1.971 seconds (129.88 hosts/sec). 5 responded
