@@ -20,7 +20,9 @@ It performs ARP-based host discovery and TCP port scanning using `/dev/tcp` and 
 
 Make sure you are using a Linux system (Kali Linux recommended).
 
-Install required tools:
+
+
+Install required tools below:
 
 ```bash
 sudo apt update
